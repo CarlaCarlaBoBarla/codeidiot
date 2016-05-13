@@ -1,0 +1,2 @@
+# codeidiot
+my first repository
